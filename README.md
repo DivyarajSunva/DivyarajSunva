@@ -95,10 +95,10 @@
   <table>
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats-salesp07.vercel.app/api?username=nihal514&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+        <img src="https://github-readme-stats-salesp07.vercel.app/api?username=DivyarajSunva&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
       </td>
       <td width="50%">
-        <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=nihal514&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+        <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=DivyarajSunva&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
       </td>
     </tr>
   </table>
